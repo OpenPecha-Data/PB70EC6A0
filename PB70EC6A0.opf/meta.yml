@@ -1,0 +1,36 @@
+id: PB70EC6A0
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG11903
+  instance_id: http://purl.bdrc.io/resource/IE1KG11903
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། ཤེས་རབ་རིན་ཆེན། ༼ས་སྐྱ་རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་གི་གློག་ཀླད་པར་མ།༽
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P79
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    b91f59774bb449d58734f6fcc81c5df4:
+      title: པོད ༢་གསུང་འབུམ། ཤེས་རབ་རིན་ཆེན། ༼ས་སྐྱ་རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་གི་གློག་ཀླད་པར་མ།༽
+      volume_number: 2
+      base_file: UT1KG11903_I1KG12024_0000.txt
+      reference: http://purl.bdrc.io/resource/VLB8D7477C83488A36
+      image_group: I1KG12024
+      quality: Low
+    82ff2334e6164c3db19affc9e53a3e9d:
+      title: པོད ༡་གསུང་འབུམ། ཤེས་རབ་རིན་ཆེན། ༼ས་སྐྱ་རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་གི་གློག་ཀླད་པར་མ།༽
+      volume_number: 1
+      base_file: UT1KG11903_I1KG12023_0000.txt
+      reference: http://purl.bdrc.io/resource/VL15ECC5A187F2FD46
+      image_group: I1KG12023
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG11903
+  - http://purl.bdrc.io/resource/MW1KG11903
+  ocr_software: Namsel
+created_at: '2021-12-22T10:31:29.636272'
+last_modified_at: '2021-12-22T10:31:29.636280'
